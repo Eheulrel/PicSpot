@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=57:AB:D4:47:C2:18:F0:52:91:E5:B3:50:FE:7F:DE:01:D4:34:88:4F%3Bnet.codestorage.picspot
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    net.codestorage.picspot
+
+    SHA-1 certificate fingerprint:
+    57:AB:D4:47:C2:18:F0:52:91:E5:B3:50:FE:7F:DE:01:D4:34:88:4F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDTtk0UTe6zfi_JQvN0UF06abiUjcgXWo4</string>
+</resources>

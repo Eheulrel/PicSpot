@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PicSpot</string>
+
+    <string name="slogan">Go place\nyou\'ve\ndreamed\nof.</string>
+    <string name="description">Search the place by picture.\nUpload your dream place,\nWe will search for you.</string>
+
+    <string name="nextPage">next page</string>
+
+
+    <string name="howToUse1">How to Use</string>
+    <string name="howToUse2">1. 위쪽의 앨범 아이콘을 눌러서 찾고자 하는 장소의 사진을 불러와요</string>
+    <string name="howToUse3">2. 픽스팟 AI가 이미지를 인식하여 관광지를 알려줘요\n(조형물이나 건물이 있는 사진이면 더 좋아요!)</string>
+    <string name="howToUse4">3. 픽스팟 AI가 알려준 관광정보를 가지고 부산으로 출발!</string>
+
+    <string name="chooseYourImage">Choose Your Image</string>
+    <string name="clickAlbumToUpload">(Click to Upload)</string>
+
+    <string name="login">login</string>
+    <string name="favorites">favorites</string>
+    <string name="sunrise">sunrise</string>
+    <string name="floatingButton">floating button</string>
+    <string name="percent">percent</string>
+    <string name="slideUp">slide up</string>
+
+
+    <string name="loading">loading..</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
